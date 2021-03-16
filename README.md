@@ -1,5 +1,5 @@
 # OutVirus - Descarga e Información
-Detecta-virus profesional escrito en Python. 
+Detecta-virus profesional escrito en Python.
 
 Producto aún en desarrollo y con licencia de prueba.
 
