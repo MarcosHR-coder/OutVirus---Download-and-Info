@@ -6,7 +6,7 @@ Producto aún en desarrollo y con licencia de prueba.
 
 Solo apto para Windows a partir de Windows 7
 
-Versión del producto: 1.01
+Versión del producto: 2.01
 
 Fecha de lanzamiento: 14/03/2021
 
