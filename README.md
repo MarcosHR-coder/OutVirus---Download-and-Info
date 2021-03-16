@@ -22,6 +22,8 @@ o pertenecen a un programa instalado por el usuario, el cual contiene malware y 
 
 El programa esta escrito en Python3 con Pycharm y VSCode.
 
+
+
 # Novedades versión 2 OutVirus
 
 - Diseño mas intuitivo
