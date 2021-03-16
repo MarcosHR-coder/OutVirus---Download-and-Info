@@ -31,3 +31,11 @@ El programa esta escrito en Python3 con Pycharm y VSCode.
 - Registro de nombre de usuario
 - Sección para notificar errores al desarrollador
 - Más rapidez al examinar el equipo
+
+
+# Cómo obtener el producto gratuito y para siempre
+
+1. Descarga el archivo: "Info OutVirus" que viene en el repositorio
+2. Selecciona la licencia de prueba para desarrolladores que viene en su interior y cópiala
+3. Introdúcela en la primera ventana visible al iniciar el programa
+4. Presiona en el boton: 'Validar Licencia'
