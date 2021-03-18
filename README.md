@@ -39,3 +39,10 @@ El programa esta escrito en Python3 con Pycharm y VSCode.
 2. Selecciona la licencia de prueba para desarrolladores que viene en su interior y cópiala
 3. Introdúcela en la primera ventana visible al iniciar el programa
 4. Presiona en el boton: 'Validar Licencia'
+
+
+# Fecha de salida próximas versiones
+
+- 24/03/2021 Versión 3.01
+- 03/04/2021 Versión 4.01
+- 13/04/2021 Versión 5.01
