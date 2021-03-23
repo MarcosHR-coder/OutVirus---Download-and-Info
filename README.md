@@ -43,7 +43,7 @@ El programa esta escrito en Python3 con Pycharm y VSCode.
 
 # Fecha de salida próximas versiones
 
-- 24/03/2021 Versión 3.01
-- 29/03/2021 Versión 4.01
-- 03/04/2021 Versión 5.01
-- 15/04/2021 Versión 6.01
+- 25/03/2021 Versión 3.01
+- 31/03/2021 Versión 4.01
+- 13/04/2021 Versión 5.01
+- 18/04/2021 Versión 6.01
