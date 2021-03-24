@@ -9,7 +9,8 @@ Solo apto para Windows a partir de Windows 7
 Versión del producto: 3.01
 
 Fecha de lanzamiento: 14/03/2021 (Versión 1)
-Fecha de lanzamiento: 16/03/2021 (Versión 2, mas reciente)
+Fecha de lanzamiento: 16/03/2021 (Versión 2)
+Fecha de lanzamiento: 24/03/2021 (Versión 3, más reciente)
 
 Se recomienda actualizar el producto a versiones posteriores cuando estas estén públicas.
 
@@ -20,7 +21,7 @@ Hecho en España
 Este Software analiza los programas en ejecución en segundo plano y frena la ejecución de estos si no pertenecen al sistema
 o pertenecen a un programa instalado por el usuario, el cual contiene malware y este se ejecuta en segundo plano.
 
-El programa esta escrito en Python3 con Pycharm y VSCode.
+El programa esta escrito en Python3 y C++ con Pycharm, Clion y VSCode.
 
 
 
