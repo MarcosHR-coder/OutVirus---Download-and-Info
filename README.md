@@ -37,10 +37,14 @@ El programa esta escrito en Python3 con Pycharm y VSCode.
 
 # Cómo obtener el producto gratuito y para siempre
 
-1. Descarga el archivo: "Info OutVirus" que viene en el repositorio
-2. Selecciona la licencia de prueba para desarrolladores que viene en su interior y cópiala
-3. Introdúcela en la primera ventana visible al iniciar el programa
-4. Presiona en el boton: 'Validar Licencia'
+1. Descarga el instalador 'OutVirus - v3.exe'
+2. Ejecutalo y sigue el programa de instalación
+3. Abra el acceso directo del escritorio
+4. Solicite una licencia introduciendo sus datos en el formulario
+5. En poco tiempo le llegará por correo una licencia 100% original
+6. Vuelva a ejecutar el programa y seleccione la opción: 'tengo licencia'
+7. Introduzca la licencia que le llegó por correo
+8. Continue con el asistente de inicio
 
 
 # Fecha de salida próximas versiones
