@@ -6,7 +6,7 @@ Producto aún en desarrollo y con licencia de prueba.
 
 Solo apto para Windows a partir de Windows 7
 
-Versión del producto: 2.01
+Versión del producto: 3.01
 
 Fecha de lanzamiento: 14/03/2021 (Versión 1)
 Fecha de lanzamiento: 16/03/2021 (Versión 2, mas reciente)
@@ -24,13 +24,15 @@ El programa esta escrito en Python3 con Pycharm y VSCode.
 
 
 
-# Novedades versión 2 OutVirus
+# Novedades versión 3 OutVirus
 
-- Diseño mas intuitivo
+- Diseño mas tradicional
 - Configurable en francés
 - Registro de nombre de usuario
-- Sección para notificar errores al desarrollador
 - Más rapidez al examinar el equipo
+- Segunda opción de examen mas profesional
+- Vínculo con correo electrónico
+- Proceso de instalación automático y mas intuitivo
 
 
 # Cómo obtener el producto gratuito y para siempre
@@ -43,7 +45,6 @@ El programa esta escrito en Python3 con Pycharm y VSCode.
 
 # Fecha de salida próximas versiones
 
-- 25/03/2021 Versión 3.01
 - 31/03/2021 Versión 4.01
 - 13/04/2021 Versión 5.01
 - 18/04/2021 Versión 6.01
