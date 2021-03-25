@@ -1,6 +1,9 @@
 # OutVirus - Descarga e Información
 Detecta-virus profesional escrito en Python.
 
+
+Creado por Marcos Herrero Ruiz
+
 Producto aún en desarrollo y con licencia de prueba.
 
 
