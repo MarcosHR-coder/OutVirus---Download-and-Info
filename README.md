@@ -53,6 +53,6 @@ El programa esta escrito en Python3 y C++ con Pycharm, Clion y VSCode.
 
 # Fecha de salida próximas versiones
 
-- 31/03/2021 Versión 4.01
-- 13/04/2021 Versión 5.01
-- 18/04/2021 Versión 6.01
+- 03/04/2021 Versión 4.01
+- 16/04/2021 Versión 5.01
+- 24/04/2021 Versión 6.01
