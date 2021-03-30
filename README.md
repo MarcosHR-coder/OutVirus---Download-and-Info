@@ -41,6 +41,23 @@ Página Web: https://marcoshr-coder.github.io/outvirus/
 - Proceso de instalación automático y mas intuitivo
 
 
+# Novedades Versión Pro
+
+- Configuración desde consola
+- Interfaz mediante consola
+- Registro con usuario de Github y página web
+- Se requiere saber usar la terminal en Windows
+
+
+# Requisitos Versión Pro
+
+- Saber Python (Nivel básico)
+- Saber usar la terminal de Windows
+- Saber ejecutar Programas desde la terminal
+- Tener conocimientos básicos de programación
+- Poseer equipo con Windows de 64 bits
+
+
 # Cómo obtener el producto gratuito y para siempre
 
 1. Descarga el instalador 'OutVirus - v3.exe'
@@ -55,6 +72,7 @@ Página Web: https://marcoshr-coder.github.io/outvirus/
 
 # Fecha de salida próximas versiones
 
+- 30/03/2021 Versión Pro (1.0)
 - 03/04/2021 Versión 4.01
 - 16/04/2021 Versión 5.01
 - 24/04/2021 Versión 6.01
