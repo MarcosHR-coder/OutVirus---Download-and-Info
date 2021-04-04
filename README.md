@@ -90,9 +90,9 @@ Página Web: https://marcoshr-coder.github.io/outvirus/
 
 # Fecha de salida próximas versiones
 
-- 03/04/2021 Versión Pro (2.0)
-- 03/04/2021 Versión 4.01
-- 09/04/2021 Versión Pro (3.0)
-- 09/04/2021 Versión 5.01
-- 17/04/2021 Versión Pro (4.0)
-- 17/04/2021 Versión 6.01
+- 10/04/2021 Versión Pro (2.0)
+- 11/04/2021 Versión 4.01
+- 19/04/2021 Versión Pro (3.0)
+- 19/04/2021 Versión 5.01
+- 27/04/2021 Versión Pro (4.0)
+- 27/04/2021 Versión 6.01
