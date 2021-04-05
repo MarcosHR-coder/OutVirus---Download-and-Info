@@ -1,3 +1,13 @@
+# Anuncio importante
+
+El programa OutVirus ahora se puede descargar y consultar desde la pagina web oficial: https://marcoshr-coder.github.io/outvirus/
+
+Este repositorio será solamente para el almacenamiento del código y control de versiones.
+
+Gracias
+
+
+
 # OutVirus - Descarga e Información
 Detecta-virus profesional escrito en Python.
 
