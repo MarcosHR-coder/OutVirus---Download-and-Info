@@ -1,6 +1,6 @@
 # Anuncio importante
 
-El programa OutVirus ahora se puede descargar y consultar desde la pagina web oficial: https://marcoshr-coder.github.io/outvirus/
+El programa OutVirus ahora se puede descargar y consultar desde la pagina web oficial: https://out-virus.000webhostapp.com/
 
 Este repositorio será solamente para el almacenamiento del código y control de versiones.
 
